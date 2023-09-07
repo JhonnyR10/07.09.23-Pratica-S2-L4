@@ -32,7 +32,7 @@ function crazySum(n1, n2) {
 /* SCRIVI QUI LA TUA RISPOSTA */
 
 function crazyDiff(n1) {
-  if (n1 < 19) {
+  if (n1 > 19) {
     return Math.abs(n1 - 19) * 3;
   } else {
     return Math.abs(n1 - 19);

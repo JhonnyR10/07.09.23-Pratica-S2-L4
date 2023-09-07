@@ -50,7 +50,7 @@ let shoppingCart = [
     quantity: 1,
   },
   {
-    price: 150,
+    price: 550,
     name: "pen",
     id: 203,
     quantity: 1,
